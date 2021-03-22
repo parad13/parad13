@@ -20,6 +20,6 @@
 - 🤩 From where I learned all things(Overall life philosophies, coding, etc.. basicall my gurus, mentors, heros, guiders and etc..)
 - 👉<b>Python</b> : <a href='https://www.youtube.com/user/javaboynavin'>Navin Reddy(Telusko)</a>
 - 👉<b>AI, ML, Data Science</b> : *<a href='https://www.youtube.com/user/krishnaik06'>Krish Naik </a><a href='https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw'>Sudhanshu Kumar(ineuron.ai founder) </a>
-- 👉<b>Business</b> :*<a href='#'>Bill Gates </a>*<a href='https://seths.blog/'>Seth Godin </a>*<a href='https://personalmba.com/'>Josh Kaufman </a>
+- 👉<b>Business</b> :*<a href='#'>Bill Gates </a><a href='https://seths.blog/'>Seth Godin </a><a href='https://personalmba.com/'>Josh Kaufman </a>
 - 📚<b>Books I read & authors I follow</b>: <a href='https://personalmba.com/'>Josh Kaufman </a>
 
