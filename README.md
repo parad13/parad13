@@ -5,6 +5,7 @@
 **parad13/parad13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
+Hello I'm `Paras Waral`
 
 - 🔭 I’m currently working on CNN, RNN
 - 🌱 I’m currently learning LSTM, GRU, NLP, Computer Vision
